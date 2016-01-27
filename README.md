@@ -10,3 +10,6 @@ Links:
 Library:https://cs.gmu.edu/~rcarver/ModernMultithreading/LangLibTools.htm
 
 JPF    :http://babelfish.arc.nasa.gov/trac/jpf/wiki/install/start
+
+
+A big thanks to Dr. Richard Carver (George Mason University)
